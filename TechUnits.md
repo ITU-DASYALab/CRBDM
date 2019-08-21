@@ -1,4 +1,4 @@
-# where data comes from 
+# 1 where data comes from 
 
 ..... how do we meet it? sources, types of dataLIT
 
@@ -15,6 +15,8 @@
 		
 * introduction to sensors
 
+  * embedded computing
+
 * remarks on the relation between humans and sensors
 
 __Lit:__ 
@@ -28,13 +30,15 @@ __Lit:__
 * Sensor terminology: National Instruments Measurement Fundamentals series - http://www.ni.com/white-paper/14860/en/
 
 
-# data - from there to here and back again
+# 2 data - from there to here and back again
 
 * modalities of sensor nodes
 
 * networks at large
 
   * a bit of ISO/OSI model
+  
+  * classification of network technologies
 
 * LPWANs
 
@@ -44,14 +48,14 @@ __Lit:__
 
 * Tanenbaum - http://iips.icci.edu.iq/images/exam/Computer-Networks---A-Tanenbaum---5th-edition.pdf - not all of it
 
-* : Wireless Networking in the Developing World, Chapters 1 & 4 - http://wndw.net/book.html#readBook
+* Wireless Networking in the Developing World, Chapters 1 & 4 - http://wndw.net/book.html#readBook
 
 
 
 
 	
 		
-# how data gets stored
+# 3 how data gets stored
 
 * databases
   * flat, sql, nosql, timeseries
@@ -60,9 +64,21 @@ __Lit:__
 * security & access
 	
 
-# how to work with data - data processing, cleaning, analyzing, visualizing
+# 4 how to work with data - data processing, cleaning, analyzing, visualizing
 
-* basic data processing
+* pre-processing
+
   * on node
   * optimization for transport
+
+* processing
+  * averaging, smoothing
+
+  
+* analysis
+
+  * regression
+  * FFT
+  
+  
 
