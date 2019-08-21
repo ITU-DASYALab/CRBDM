@@ -2,6 +2,6 @@
 
 Repo for the course
 
-Criticaæl Reflection on Big Data Management
+Critical Reflection on Big Data Management
 
 Autumn 2019
