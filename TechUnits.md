@@ -44,6 +44,8 @@ __Lit:__
 
 * http APIs, MQTT
 
+* examples of (open source) suites: node-red, telegraf
+
 __Lit:__ 
 
 * Tanenbaum - http://iips.icci.edu.iq/images/exam/Computer-Networks---A-Tanenbaum---5th-edition.pdf - not all of it
@@ -62,6 +64,8 @@ __Lit:__
 * physical
 * servers, the "cloud" myth, data centers, archives
 * security & access
+
+ * examples of (open source) suites: influx, timescale/postgres, cassandra
 	
 
 # 4 how to work with data - data processing, cleaning, analyzing, visualizing
@@ -72,7 +76,12 @@ __Lit:__
   * optimization for transport
 
 * processing
-  * averaging, smoothing
+
+  * averaging, smoothing, ...
+  
+* visualizing & interfacing
+
+  * examples of (open source) suites: node-red, grafana, leaflet
 
   
 * analysis
