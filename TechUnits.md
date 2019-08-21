@@ -2,21 +2,20 @@
 
 ..... how do we meet it? sources, types of dataLIT
 
-##classification of data
-		
-		string, numeric, binary, multimedia, blobs
+* classification of data		
+** string, numeric, binary, multimedia, blobs
     
-##social media (human) vs sensors (instruments, machines, ..)
+** social media (human) vs sensors (instruments, machines, ..)
 
-##data representations: encoding, encryption
+* data representations: encoding, encryption
 
-##metadata
+* metadata
 		
-		#myLIT: SQL data types
+* introduction to sensors
 
-		introduction to sensors
+__Lit:__ 
 
-#data - from there to here and back again
+# data - from there to here and back again
 
   modalities of sensors
 
