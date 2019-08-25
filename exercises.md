@@ -12,6 +12,8 @@ Note: you will need some data editing tools for this.
 Research - what data editors for various formats are available for your operating system?
 What tools are available online?
 
+Linux: ghex, hexer
+
 
 
 ### Week 6 - data	storage	I
