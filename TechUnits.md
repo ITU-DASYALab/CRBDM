@@ -21,6 +21,8 @@
 
 __Lit:__ 
 
+* Kitchin - chapter 1 -  uk.sagepub.com/sites/default/files/upm-binaries/63923_Kitchin_CH1.pdf
+
 * Data types: PostgreSQL 11.5 Documentation - The SQL Language - Chapter 8. Data Types https://www.postgresql.org/docs/11/datatype.html
 
 * IoT basics: ITU-T https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.2060-201206-I!!PDF-E&type=items
