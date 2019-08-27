@@ -25,9 +25,7 @@ __Lit:__
 
 * Data types: PostgreSQL 11.5 Documentation - The SQL Language - Chapter 8. Data Types https://www.postgresql.org/docs/11/datatype.html
 
-* IoT basics: ITU-T https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.2060-201206-I!!PDF-E&type=items
 
-* Connecting the Physical World with Pervasive Networks - https://learnit.itu.dk/pluginfile.php/230300/course/section/110579/00993145.pdf
 
 * Sensor terminology: National Instruments Measurement Fundamentals series - http://www.ni.com/white-paper/14860/en/
 
@@ -53,9 +51,15 @@ __Lit:__
 * Tanenbaum - http://iips.icci.edu.iq/images/exam/Computer-Networks---A-Tanenbaum---5th-edition.pdf - not all of it
 
 	networks - part 1 - Tanembaum, Ch. 1.4 Reference Models
+	
+	
 	networks - part 2 - Tanembaum, Ch. 2.3 Wireless networks
 
 * Wireless Networking in the Developing World, Chapters 1 & 4 - http://wndw.net/book.html#readBook
+
+* IoT basics: ITU-T https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.2060-201206-I!!PDF-E&type=items
+
+* Connecting the Physical World with Pervasive Networks - https://learnit.itu.dk/pluginfile.php/230300/course/section/110579/00993145.pdf
 
 
 
