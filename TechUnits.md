@@ -50,6 +50,9 @@ __Lit:__
 
 * Tanenbaum - http://iips.icci.edu.iq/images/exam/Computer-Networks---A-Tanenbaum---5th-edition.pdf - not all of it
 
+	networks - part 1 - Tanembaum, Ch. 1.4 Reference Models
+	networks - part 2 - Tanembaum, Ch. 2.3 Wireless networks
+
 * Wireless Networking in the Developing World, Chapters 1 & 4 - http://wndw.net/book.html#readBook
 
 
